@@ -15,7 +15,7 @@ public class hello extends HttpServlet {
 protected void doGet(HttpServletRequest request, HttpServletResponse response)
 		throws ServletException, IOException {
 	
-	response.getWriter().write("Serwlety sa super!.");
+	response.getWriter().write("Serwlety sa superaaaa!.");
 	// TODO Auto-generated method stub
 	//super.doGet(arg0, arg1);
 }
